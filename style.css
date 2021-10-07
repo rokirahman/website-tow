@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: azure;
+}
+h1{
+    text-align: center;
+    color: #645d5d;
+}
+p{
+    background-color: powderblue;
+    color: salmon;
+}
