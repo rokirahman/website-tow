@@ -14,3 +14,8 @@ p{
     background-color: powderblue;
     color: salmon;
 }
+div{
+    background-color: tomato;
+    width: 50%;
+    border: 1px solid #000;
+}
